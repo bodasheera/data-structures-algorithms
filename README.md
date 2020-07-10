@@ -29,8 +29,9 @@
 ## Searching Algorithms
 
 ### Implementation
-- [X] Implement Binary search tree recursive and Iterative
-- [X] Implemented Jump Search
+- [X] Binary search tree recursive and Iterative
+- [X] Jump Search
 
 ### Reference 
-- [X] [Jump Search](https://www.studytonight.com/data-structures/jump-search-algorithm)
+- [X] [Jump Search (blog)](https://www.studytonight.com/data-structures/jump-search-algorithm)
+- [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
