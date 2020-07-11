@@ -29,7 +29,8 @@
 - [X] [Bubble Sort (video)](https://www.youtube.com/watch?v=RT-hUXUWQ2I)
 - [X] [Selection Sort (video)](https://www.youtube.com/watch?v=3hH8kTHFw2A)
 - [X] [Insertion Sort (video)](https://www.youtube.com/watch?v=O0VbBkUvriI)
-- [ ] [Merge Sort (video)](https://www.youtube.com/watch?v=Ns7tGNbtvV4)
+- [X] [Recursion(video)(https://www.youtube.com/watch?v=mz6tAJMVmfM)
+- [ ] [Merge Sort (video)](https://www.youtube.com/watch?v=Ns7tGNbtvV4) 
 
 ### Implementation
 - [X] Bubble Sort
@@ -40,4 +41,7 @@
 
 - [X] Prime Number 
 - [X] Fibonacci Series
+- [X] Factorial
+- [X] Collatz Conjucture
+
 
