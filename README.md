@@ -19,7 +19,7 @@
 
 ### Implementation
 - [X] Linear Search
-- [X] Binary search tree recursive and Iterative
+- [X] Binary Search 
 - [X] Jump Search
 
 
