@@ -30,12 +30,13 @@
 - [X] [Selection Sort (video)](https://www.youtube.com/watch?v=3hH8kTHFw2A)
 - [X] [Insertion Sort (video)](https://www.youtube.com/watch?v=O0VbBkUvriI)
 - [X] [Recursion (video)](https://www.youtube.com/watch?v=mz6tAJMVmfM)
-- [ ] [Merge Sort (video)](https://www.youtube.com/watch?v=Ns7tGNbtvV4) 
+- [X] [Merge Sort (video)](https://www.youtube.com/watch?v=Ns7tGNbtvV4) 
 
 ### Implementation
 - [X] Bubble Sort
 - [X] Selection Sort
 - [X] Insertion Sort
+- [X] Merge Sort
 
 ## General Programs
 
