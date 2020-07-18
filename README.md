@@ -65,8 +65,13 @@
 - [ ] [Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
 
-## Full Stack Web Developer Roadmap
+## Full Stack Web Developer 
+
+### Roadmap
 [Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
+
+### Courses
+- [ ] [Freecodecamp Full Stack Courses](https://www.freecodecamp.org/learn)
 
 
 ## Computer Science Fundamentals
