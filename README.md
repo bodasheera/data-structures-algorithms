@@ -1,7 +1,8 @@
 # Self Taught Path to Software Development Engineer Role
 
+## Data Structures and Algorithms
 
-## Algorithmic complexity / Big-O / Asymptotic analysis
+### Algorithmic complexity / Big-O / Asymptotic analysis
 
 - Nothing to implement
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
@@ -11,34 +12,34 @@
 - [X] [Cheat sheet](http://bigocheatsheet.com/)
 
 
-## Searching Algorithms
+### Searching Algorithms
 
-### Reference 
+#### Reference 
 - [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
 - [X] [Jump Search (blog)](https://www.studytonight.com/data-structures/jump-search-algorithm)
 
-### Implementation
+#### Implementation
 - [X] Linear Search
 - [X] Binary Search 
 - [X] Jump Search
 
 
-## Sorting Algorithms
+### Sorting Algorithms
 
-### Reference 
+#### Reference 
 - [X] [Bubble Sort (video)](https://www.youtube.com/watch?v=RT-hUXUWQ2I)
 - [X] [Selection Sort (video)](https://www.youtube.com/watch?v=3hH8kTHFw2A)
 - [X] [Insertion Sort (video)](https://www.youtube.com/watch?v=O0VbBkUvriI)
 - [X] [Recursion (video)](https://www.youtube.com/watch?v=mz6tAJMVmfM)
 - [X] [Merge Sort (video)](https://www.youtube.com/watch?v=Ns7tGNbtvV4) 
 
-### Implementation
+#### Implementation
 - [X] Bubble Sort
 - [X] Selection Sort
 - [X] Insertion Sort
 - [X] Merge Sort
 
-## General Programs
+### General Programs
 
 - [X] Prime Number 
 - [X] Fibonacci Series
@@ -46,9 +47,9 @@
 - [X] Collatz Conjucture
 
 
-## Data Structures
+### Data Structures
 
-### Arrays
+#### Arrays
 - [X] Array Rotation
 
 
@@ -62,6 +63,17 @@
 - [ ] [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
 - [ ] [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [ ] [Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
+
+
+## Full Stack Web Developer Roadmap
+[Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
+
+## Computer Science Fundamentals
+
+### Courses
+- [ ] [Harvard CS50 Introduction to Computer Science](https://cs50.harvard.edu/summer/2020/)
+- [ ] [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
+- [ ] [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
 
 
 
