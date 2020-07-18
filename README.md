@@ -68,9 +68,8 @@
 ## Full Stack Web Developer Roadmap
 [Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
 
-## Computer Science Fundamentals
 
-### Courses
+## Computer Science Fundamentals
 - [ ] [Harvard CS50 Introduction to Computer Science](https://cs50.harvard.edu/summer/2020/)
 - [ ] [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
