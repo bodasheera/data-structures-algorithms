@@ -1,4 +1,4 @@
-# Data Structures Algorithms
+# Self Taught Path to Software Development Engineer Role
 
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
@@ -50,5 +50,22 @@
 
 ### Arrays
 - [X] Array Rotation
+
+
+### Data Science
+
+## MOOC
+-[X] [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+-[X] [IBM AI Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+-[ ] [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+
+### Cloud
+
+## MOOC
+-[ ] [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
+-[ ] [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+-[ ] [Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
+
+
 
 
