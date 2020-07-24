@@ -78,7 +78,7 @@
 
 ### Version Control
 - [ ] [Git Tutorials](https://www.youtube.com/watch?v=USjZcfj8yxE)
-- [ ] [Github Tutorials](https://www.youtube.com/watch?v=nhNq2kIvi9s
+- [ ] [Github Tutorials](https://www.youtube.com/watch?v=nhNq2kIvi9s)
 
 ### Devops
 - [ ] [Devops Kodekloud Courses](https://kodekloud.com/p/learning-path)
