@@ -60,19 +60,31 @@
 
 
 ## Cloud
+- [ ] [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) 
 - [ ] [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
 - [ ] [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [ ] [Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
 
+## Cyber Security
+- [ ] [IT Fundamentals for Cybersecurity Specialization](https://www.coursera.org/specializations/it-fundamentals-cybersecurity)
+- [ ] [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+
+
 ## Full Stack Web Developer 
 
 ### Roadmap
-[Roadmap](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
+[Frontend, Backend and Devops](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
 
-### Courses
+### Version Control
+- [ ] [Git Tutorials](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [ ] [Github Tutorials](https://www.youtube.com/watch?v=nhNq2kIvi9s
+
+### Devops
+- [ ] [Devops Kodekloud Courses](https://kodekloud.com/p/learning-path)
+
+### Full Stack Freecodecamp courses
 - [ ] [Freecodecamp Full Stack Courses](https://www.freecodecamp.org/learn)
-
 
 ## Computer Science Fundamentals
 - [ ] [Harvard CS50 Introduction to Computer Science](https://cs50.harvard.edu/summer/2020/)
